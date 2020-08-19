@@ -1,4 +1,4 @@
-# FaceDetect
+# FaceDetect实现拍照人脸识别
 Android人脸识别app——基于Face++ | MVP+Retofit+RxJava+Dagger高度解耦
 
 ![面部识别主界面](https://upload-images.jianshu.io/upload_images/12266363-31e31a5672b3065e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
